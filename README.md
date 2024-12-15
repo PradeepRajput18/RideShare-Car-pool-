@@ -44,5 +44,3 @@ This project serves as a solid foundation for a more complex ride-sharing applic
 3. **Real-World Application**: Addresses a practical problem in transportation.
 4. **Algorithmic Thinking**: Demonstrates ability to implement complex logic.
 5. **Object-Oriented Principles**: Showcases understanding of OOP concepts.
-
-This project is an excellent demonstration of software engineering skills, making it an attractive addition to any developer's portfolio.
